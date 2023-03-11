@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/imdb-clone-react/static/css/main.30223819.css",
+    "main.js": "/imdb-clone-react/static/js/main.b780dd90.js",
+    "static/js/787.94f312e4.chunk.js": "/imdb-clone-react/static/js/787.94f312e4.chunk.js",
+    "static/media/revicons.eot": "/imdb-clone-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/imdb-clone-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/imdb-clone-react/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/imdb-clone-react/index.html",
+    "main.30223819.css.map": "/imdb-clone-react/static/css/main.30223819.css.map",
+    "main.b780dd90.js.map": "/imdb-clone-react/static/js/main.b780dd90.js.map",
+    "787.94f312e4.chunk.js.map": "/imdb-clone-react/static/js/787.94f312e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30223819.css",
+    "static/js/main.b780dd90.js"
+  ]
+}
